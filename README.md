@@ -2,7 +2,7 @@
 <h3 align="center">A passionate studant developer from Brasil</h3>
 
 - 🌱 I’m currently learning **NodeJS and API's**
-- - 🧠 I'm currently programming on **CSS, HTML5 and JavaScript**
+- 🧠 I'm currently programming on **CSS, HTML5 and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
