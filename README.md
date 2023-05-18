@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karine</h1>
-<h3>A passionate studant developer</h3>
+<h3>Welcome to my GitHub</h3>
 
 I’m focused on improving my development skills while currently learning **Python and Java**
 
